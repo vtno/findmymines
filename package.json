@@ -1,0 +1,9 @@
+{
+  "name": "find_my_mines",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "files" : ["style.css"],
+  "dependencies": {
+    "socket.io": "^1.4.5"
+  }
+}
